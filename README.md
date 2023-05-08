@@ -1,1 +1,1 @@
-# AI Desktop voice assistant
+# AI Desktop Voice Assistant
